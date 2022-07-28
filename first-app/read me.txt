@@ -1,0 +1,4 @@
+login laptop page open:  http://127.0.0.1:8000/laptops/create
+
+submit laptop brand and name to database
+click laptop name to check its descrption
